@@ -1,16 +1,30 @@
 ## Hi there 👋
+I'm Katli!
 
-<!--
-**katli-cods/katli-cods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student exploring the world of **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I'm passionate about building cool things with code and constantly learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Learning AI/ML and Data Science
+- 📘 Studying Data Structures and Algorithms (DSA)
+- 🔧 Building small projects to apply what I learn
+
+## 🛠️ Tech Stack
+
+- Languages: C, C++, Python
+- Tools: Git & GitHub, VS Code
+- Areas of interest: AI, ML, Data Science, Electronics
+
+## 📚 Currently Learning
+
+- 📊 Data Science
+- 🧠 Machine Learning
+- ⚙️ DSA
+
+## 📫 Connect with Me
+
+- GitHub: [@katli-cods](https://github.com/katli-cods)
+
+---
+
+> “Consistency is more important than intensity. Progress, not perfection.” 🚀
