@@ -23,7 +23,7 @@ I'm a student exploring the world of **Artificial Intelligence**, **Machine Lear
 
 ## 📫 Connect with Me
 
-- GitHub: [@katli-cods](https://github.com/katli-cods)
+- GitHub: [@sharma-bhupesh](https://github.com/sharma-bhupesh)
 
 ---
 
