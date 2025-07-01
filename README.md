@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Katli!
+I'm Bhupesh!
 
 I'm a student exploring the world of **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I'm passionate about building cool things with code and constantly learning new technologies.
 
@@ -12,8 +12,8 @@ I'm a student exploring the world of **Artificial Intelligence**, **Machine Lear
 ## 🛠️ Tech Stack
 
 - Languages: C, C++, Python
-- Tools: Git & GitHub, VS Code
-- Areas of interest: AI, ML, Data Science, Electronics
+- Tools: Git & GitHub, VS Code, Jupyter Notebook, Google Colab
+- Areas of interest: AI, ML, Data Science, Electronics, Gaming
 
 ## 📚 Currently Learning
 
