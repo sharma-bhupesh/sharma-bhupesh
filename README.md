@@ -12,8 +12,8 @@ I'm a student exploring the world of **Artificial Intelligence**, **Machine Lear
 ## 🛠️ Tech Stack
 
 - Languages: C, C++, Python
-- Tools: Git & GitHub, VS Code, Jupyter Notebook, Google Colab
-- Areas of interest: AI, ML, Data Science, Electronics, Gaming
+- Tools: Git & GitHub, VS Code, Jupyter Notebook, Google Colab, Kaggle
+- Areas of interest: AI, ML, Data Science, Electronics, Gaming, Puzzle
 
 ## 📚 Currently Learning
 
