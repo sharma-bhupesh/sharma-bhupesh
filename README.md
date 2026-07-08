@@ -70,6 +70,8 @@ My long-term goal is simple: **keep exploring, keep learning, build meaningful t
 
 ## 📫 Connect
 
+- 💼 LinkedIn: **[@Bhupesh Sharma](https://www.linkedin.com/in/bhupesh-sharma-g/)**
+- 🐦 X (Twitter): **[@bhupeshsarswat_](https://x.com/bhupeshsarswat_)**
 - GitHub: **[@sharma-bhupesh](https://github.com/sharma-bhupesh)**
 
 ---
